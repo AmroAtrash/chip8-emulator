@@ -1,0 +1,12 @@
+# Build artifacts
+*.exe
+*.o
+
+# External libraries
+*.dll
+
+# ROM files
+*.ch8
+
+# VS Code settings
+.vscode/
